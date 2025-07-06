@@ -65,7 +65,7 @@ npm install
 Create a `.env` file in the backend with:
 ```
 MONGODB_URI=your-mongo-db-uri
-PORT=5000
+PORT=3000
 ```
 
 4. **Run the Application**
